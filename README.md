@@ -14,6 +14,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saraansh0001/Leetcodes/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Saraansh0001/Leetcodes/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Saraansh0001/Leetcodes/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
