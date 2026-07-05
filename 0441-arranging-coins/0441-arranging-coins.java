@@ -1,24 +1,26 @@
 class Solution {
-    public int arrangeCoins(int n) {
 
-        int lo = 1;
-        int hi = n;
-        int ans = 0;
+    public int sqrt(long n) {
+        if (n == 0) return 0;
+
+        long lo = 1, hi = n;
 
         while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
+            long mid = lo + (hi - lo) / 2;
 
-            long coins = (long) mid * (mid + 1) / 2;
-
-            if (coins == n) return mid;
-            else if (coins < n) {
-                ans = mid;
-                lo = mid + 1;
-            } else {
+            if (mid == n / mid)
+                return (int) mid;
+            else if (mid > n / mid)
                 hi = mid - 1;
-            }
+            else
+                lo = mid + 1;
         }
 
-        return ans;
+        return (int) hi;
+    }
+
+    public int arrangeCoins(int n) {
+        long m = (long) n;
+        return (sqrt(8 * m + 1) - 1) / 2;
     }
 }
