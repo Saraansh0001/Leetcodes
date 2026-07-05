@@ -7,6 +7,7 @@
 | [0035-search-insert-position](https://github.com/Saraansh0001/Leetcodes/tree/master/0035-search-insert-position) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [2404-most-frequent-even-element](https://github.com/Saraansh0001/Leetcodes/tree/master/2404-most-frequent-even-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -77,6 +78,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -98,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Saraansh0001/Leetcodes/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
