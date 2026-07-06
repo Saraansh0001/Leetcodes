@@ -2,9 +2,6 @@ import java.util.Arrays;
 
 class Solution {
     public int removeCoveredIntervals(int[][] intervals) {
-
-        // Sort by start ascending.
-        // If starts are equal, sort by end descending.
         Arrays.sort(intervals, (a, b) -> {
             if (a[0] == b[0]) return b[1] - a[1];
             return a[0] - b[0];
