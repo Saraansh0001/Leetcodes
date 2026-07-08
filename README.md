@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Saraansh0001/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/Saraansh0001/Leetcodes/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Saraansh0001/Leetcodes/tree/master/0125-valid-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
