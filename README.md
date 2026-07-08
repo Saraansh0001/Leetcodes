@@ -39,6 +39,7 @@
 | ------- |
 | [0520-detect-capital](https://github.com/Saraansh0001/Leetcodes/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0069-sqrtx](https://github.com/Saraansh0001/Leetcodes/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Saraansh0001/Leetcodes/tree/master/0441-arranging-coins) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
