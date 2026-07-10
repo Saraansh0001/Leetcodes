@@ -16,6 +16,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Saraansh0001/Leetcodes/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Saraansh0001/Leetcodes/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -59,6 +61,7 @@
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/Saraansh0001/Leetcodes/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Saraansh0001/Leetcodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Saraansh0001/Leetcodes/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -120,6 +124,7 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Saraansh0001/Leetcodes/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -134,8 +139,17 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Saraansh0001/Leetcodes/tree/master/0125-valid-palindrome) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
