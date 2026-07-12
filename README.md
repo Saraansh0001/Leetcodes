@@ -124,11 +124,13 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Saraansh0001/Leetcodes/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Saraansh0001/Leetcodes/tree/master/0441-arranging-coins) |
+| [1025-divisor-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Saraansh0001/Leetcodes/tree/master/3620-network-recovery-pathways) |
@@ -159,4 +161,12 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
