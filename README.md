@@ -131,6 +131,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saraansh0001/Leetcodes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Saraansh0001/Leetcodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Saraansh0001/Leetcodes/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Saraansh0001/Leetcodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
