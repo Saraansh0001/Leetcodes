@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Saraansh0001/Leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1331-rank-transform-of-an-array) |
@@ -113,6 +114,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -206,6 +208,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saraansh0001/Leetcodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
