@@ -1,5 +1,7 @@
 class Solution {
     public int[] runningSum(int[] nums) {
+
+        // prefix sum
         
         int n = nums.length ;
 
