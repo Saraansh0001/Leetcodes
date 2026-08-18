@@ -20,6 +20,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Saraansh0001/Leetcodes/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Saraansh0001/Leetcodes/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Saraansh0001/Leetcodes/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraansh0001/Leetcodes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
