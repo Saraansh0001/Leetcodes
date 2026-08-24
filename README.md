@@ -24,6 +24,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Saraansh0001/Leetcodes/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Saraansh0001/Leetcodes/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Saraansh0001/Leetcodes/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Saraansh0001/Leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -206,6 +207,7 @@
 | [1406-stone-game-iii](https://github.com/Saraansh0001/Leetcodes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Saraansh0001/Leetcodes/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Saraansh0001/Leetcodes/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Saraansh0001/Leetcodes/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
@@ -234,6 +236,7 @@
 | [1406-stone-game-iii](https://github.com/Saraansh0001/Leetcodes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Saraansh0001/Leetcodes/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Saraansh0001/Leetcodes/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Saraansh0001/Leetcodes/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Saraansh0001/Leetcodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Saraansh0001/Leetcodes/tree/master/3620-network-recovery-pathways) |
@@ -261,6 +264,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/Saraansh0001/Leetcodes/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraansh0001/Leetcodes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -299,6 +303,7 @@
 | [1406-stone-game-iii](https://github.com/Saraansh0001/Leetcodes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Saraansh0001/Leetcodes/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Saraansh0001/Leetcodes/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Saraansh0001/Leetcodes/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
 ## Enumeration
@@ -359,12 +364,14 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Saraansh0001/Leetcodes/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Saraansh0001/Leetcodes/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Saraansh0001/Leetcodes/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Saraansh0001/Leetcodes/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
