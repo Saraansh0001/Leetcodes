@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Saraansh0001/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saraansh0001/Leetcodes/tree/master/0035-search-insert-position) |
@@ -258,6 +259,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saraansh0001/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Saraansh0001/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saraansh0001/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -277,6 +279,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saraansh0001/Leetcodes/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Saraansh0001/Leetcodes/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1927-sum-game) |
