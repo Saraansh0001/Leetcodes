@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saraansh0001/Leetcodes/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraansh0001/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Saraansh0001/Leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Saraansh0001/Leetcodes/tree/master/0486-predict-the-winner) |
@@ -229,6 +230,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraansh0001/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Saraansh0001/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Saraansh0001/Leetcodes/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1025-divisor-game) |
