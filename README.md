@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saraansh0001/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Saraansh0001/Leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Saraansh0001/Leetcodes/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Saraansh0001/Leetcodes/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Saraansh0001/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
@@ -280,6 +281,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Saraansh0001/Leetcodes/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Saraansh0001/Leetcodes/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/Saraansh0001/Leetcodes/tree/master/1872-stone-game-viii) |
@@ -405,4 +407,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Saraansh0001/Leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Saraansh0001/Leetcodes/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
