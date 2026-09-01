@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Saraansh0001/Leetcodes/tree/master/1386-cinema-seat-allocation) |
@@ -105,6 +106,7 @@
 | [0125-valid-palindrome](https://github.com/Saraansh0001/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Saraansh0001/Leetcodes/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1927-sum-game) |
@@ -125,6 +127,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saraansh0001/Leetcodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saraansh0001/Leetcodes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -291,6 +294,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saraansh0001/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Saraansh0001/Leetcodes/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0633-sum-of-square-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Saraansh0001/Leetcodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
