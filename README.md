@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Saraansh0001/Leetcodes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Saraansh0001/Leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1331-rank-transform-of-an-array) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Saraansh0001/Leetcodes/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Saraansh0001/Leetcodes/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Saraansh0001/Leetcodes/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0567-permutation-in-string) |
@@ -146,6 +148,7 @@
 | [0015-3sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Saraansh0001/Leetcodes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Saraansh0001/Leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Saraansh0001/Leetcodes/tree/master/1288-remove-covered-intervals) |
