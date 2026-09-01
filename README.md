@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Saraansh0001/Leetcodes/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Saraansh0001/Leetcodes/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraansh0001/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Saraansh0001/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Saraansh0001/Leetcodes/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1025-divisor-game) |
@@ -286,6 +288,7 @@
 | [0125-valid-palindrome](https://github.com/Saraansh0001/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saraansh0001/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Saraansh0001/Leetcodes/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0633-sum-of-square-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Saraansh0001/Leetcodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
