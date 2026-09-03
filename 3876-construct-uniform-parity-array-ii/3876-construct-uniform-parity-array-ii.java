@@ -11,12 +11,10 @@ class Solution {
             }
         }
 
-        // All elements already have the same parity
         if (minOdd == Integer.MAX_VALUE || minEven == Integer.MAX_VALUE) {
             return true;
         }
 
-        // Every even number needs a smaller odd number
         return minOdd < minEven;
     }
 }
