@@ -241,6 +241,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Saraansh0001/Leetcodes/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Saraansh0001/Leetcodes/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Saraansh0001/Leetcodes/tree/master/0441-arranging-coins) |
