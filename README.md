@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/Saraansh0001/Leetcodes/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Saraansh0001/Leetcodes/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/Saraansh0001/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
@@ -73,6 +74,7 @@
 | [0035-search-insert-position](https://github.com/Saraansh0001/Leetcodes/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Saraansh0001/Leetcodes/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saraansh0001/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Saraansh0001/Leetcodes/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0633-sum-of-square-numbers) |
@@ -90,6 +92,7 @@
 | [0217-contains-duplicate](https://github.com/Saraansh0001/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saraansh0001/Leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0567-permutation-in-string) |
@@ -159,6 +162,7 @@
 | [0217-contains-duplicate](https://github.com/Saraansh0001/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saraansh0001/Leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Saraansh0001/Leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1331-rank-transform-of-an-array) |
@@ -312,6 +316,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saraansh0001/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Saraansh0001/Leetcodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0633-sum-of-square-numbers) |
