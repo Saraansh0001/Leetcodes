@@ -8,7 +8,6 @@ class Solution {
 
         int mid = n / 2;
 
-        // Initial rotation
         for (int i = 0; i < mid; i++) {
             leftSum += nums[i];
         }
@@ -25,7 +24,6 @@ class Solution {
                 goodRotation++;
             }
 
-            // Update for next left rotation
             if (i < n - 1) {
 
                 long leaving = nums[i];
