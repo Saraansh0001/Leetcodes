@@ -93,6 +93,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Saraansh0001/Leetcodes/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Saraansh0001/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saraansh0001/Leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
@@ -121,6 +122,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Saraansh0001/Leetcodes/tree/master/0012-integer-to-roman) |
 | [0115-distinct-subsequences](https://github.com/Saraansh0001/Leetcodes/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Saraansh0001/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Saraansh0001/Leetcodes/tree/master/0242-valid-anagram) |
@@ -257,6 +259,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Saraansh0001/Leetcodes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Saraansh0001/Leetcodes/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Saraansh0001/Leetcodes/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Saraansh0001/Leetcodes/tree/master/0441-arranging-coins) |
