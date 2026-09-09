@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraansh0001/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saraansh0001/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Saraansh0001/Leetcodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saraansh0001/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Saraansh0001/Leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Saraansh0001/Leetcodes/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Saraansh0001/Leetcodes/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/Saraansh0001/Leetcodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saraansh0001/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saraansh0001/Leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
@@ -166,12 +168,14 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Saraansh0001/Leetcodes/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Saraansh0001/Leetcodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saraansh0001/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saraansh0001/Leetcodes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
@@ -204,6 +208,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Saraansh0001/Leetcodes/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1399-count-largest-group](https://github.com/Saraansh0001/Leetcodes/tree/master/1399-count-largest-group) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
@@ -502,4 +507,8 @@
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saraansh0001/Leetcodes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
