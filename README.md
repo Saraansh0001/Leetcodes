@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Saraansh0001/Leetcodes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0015-3sum) |
@@ -93,6 +94,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Saraansh0001/Leetcodes/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Saraansh0001/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saraansh0001/Leetcodes/tree/master/0242-valid-anagram) |
