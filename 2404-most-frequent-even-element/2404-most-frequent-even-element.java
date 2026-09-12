@@ -1,31 +1,32 @@
 class Solution {
     public int mostFrequentEven(int[] nums) {
 
-        Arrays.sort(nums);
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-        int ele = -1;
-        int count = 0;
-
-        int i = 0;
-
-        while (i < nums.length) {
-
-            int curr = nums[i];
-            int tempCount = 1;
-
-            while (i + 1 < nums.length && nums[i + 1] == nums[i]) {
-                tempCount++;
-                i++;
-            }
-
-            if (curr % 2 == 0 && tempCount > count) {
-                count = tempCount;
-                ele = curr;
-            }
-
-            i++;
+        // Count frequency
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        return ele;
+        int maxFreq = 0;
+        int smallest = Integer.MAX_VALUE;
+
+        // Find most frequent even number
+        for (int num : map.keySet()) {
+
+            if (num % 2 == 0) {
+
+                int freq = map.get(num);
+
+                if (freq > maxFreq || 
+                   (freq == maxFreq && num < smallest)) {
+
+                    maxFreq = freq;
+                    smallest = num;
+                }
+            }
+        }
+
+        return smallest == Integer.MAX_VALUE ? -1 : smallest;
     }
 }
