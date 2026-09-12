@@ -3,30 +3,25 @@ class Solution {
 
         HashMap<Integer, Integer> map = new HashMap<>();
 
-        // Count frequency
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-        }
-
         int maxFreq = 0;
-        int smallest = Integer.MAX_VALUE;
+        int ans = -1;
 
-        // Find most frequent even number
-        for (int num : map.keySet()) {
+        for (int num : nums) {
 
-            if (num % 2 == 0) {
+            if (num % 2 != 0)
+                continue;
 
-                int freq = map.get(num);
+            int freq = map.getOrDefault(num, 0) + 1;
+            map.put(num, freq);
 
-                if (freq > maxFreq || 
-                   (freq == maxFreq && num < smallest)) {
+            if (freq > maxFreq || 
+               (freq == maxFreq && (ans == -1 || num < ans))) {
 
-                    maxFreq = freq;
-                    smallest = num;
-                }
+                maxFreq = freq;
+                ans = num;
             }
         }
 
-        return smallest == Integer.MAX_VALUE ? -1 : smallest;
+        return ans;
     }
 }
