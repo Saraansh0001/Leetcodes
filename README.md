@@ -47,6 +47,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Saraansh0001/Leetcodes/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Saraansh0001/Leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2404-most-frequent-even-element](https://github.com/Saraansh0001/Leetcodes/tree/master/2404-most-frequent-even-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -116,6 +117,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Saraansh0001/Leetcodes/tree/master/1386-cinema-seat-allocation) |
 | [1399-count-largest-group](https://github.com/Saraansh0001/Leetcodes/tree/master/1399-count-largest-group) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2404-most-frequent-even-element](https://github.com/Saraansh0001/Leetcodes/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saraansh0001/Leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -221,6 +223,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [1399-count-largest-group](https://github.com/Saraansh0001/Leetcodes/tree/master/1399-count-largest-group) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2404-most-frequent-even-element](https://github.com/Saraansh0001/Leetcodes/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraansh0001/Leetcodes/tree/master/3312-sorted-gcd-pair-queries) |
@@ -296,6 +299,7 @@
 | [1927-sum-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Saraansh0001/Leetcodes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraansh0001/Leetcodes/tree/master/3312-sorted-gcd-pair-queries) |
@@ -438,6 +442,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Saraansh0001/Leetcodes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraansh0001/Leetcodes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -536,4 +541,12 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saraansh0001/Leetcodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/2183-count-array-pairs-divisible-by-k) |
 <!---LeetCode Topics End-->
