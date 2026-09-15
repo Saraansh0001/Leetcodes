@@ -559,4 +559,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Saraansh0001/Leetcodes/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Saraansh0001/Leetcodes/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
