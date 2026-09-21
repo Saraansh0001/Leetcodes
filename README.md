@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saraansh0001/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Saraansh0001/Leetcodes/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Saraansh0001/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Saraansh0001/Leetcodes/tree/master/0238-product-of-array-except-self) |
@@ -93,6 +94,7 @@
 | [0035-search-insert-position](https://github.com/Saraansh0001/Leetcodes/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Saraansh0001/Leetcodes/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saraansh0001/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Saraansh0001/Leetcodes/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -422,6 +425,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Saraansh0001/Leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Saraansh0001/Leetcodes/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0525-contiguous-array) |
