@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Saraansh0001/Leetcodes/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraansh0001/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saraansh0001/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Saraansh0001/Leetcodes/tree/master/0169-majority-element) |
@@ -117,6 +118,7 @@
 | [0001-two-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Saraansh0001/Leetcodes/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Saraansh0001/Leetcodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saraansh0001/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0229-majority-element-ii) |
@@ -283,6 +285,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Saraansh0001/Leetcodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saraansh0001/Leetcodes/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
