@@ -3,15 +3,24 @@ class Solution {
 
         HashMap<Integer, Integer> map = new HashMap<>();
 
-        for (int i = 0; i < nums.length; i++) {
+        int i = 0;
 
-            int needed = target - nums[i];
+        for (int num : nums) {
+            map.put(num, i);
+            i++;
+        }
 
-            if (map.containsKey(needed)) {
-                return new int[]{map.get(needed), i};
+        i = 0;
+
+        for (int num : nums) {
+
+            int rem = target - num;
+
+            if (map.containsKey(rem) && map.get(rem) != i) {
+                return new int[]{i, map.get(rem)};
             }
 
-            map.put(nums[i], i);
+            i++;
         }
 
         return new int[]{-1, -1};
