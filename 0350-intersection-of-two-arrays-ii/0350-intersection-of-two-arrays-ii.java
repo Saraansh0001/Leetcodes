@@ -21,13 +21,19 @@ class Solution {
 
             if (n2.containsKey(num)) {
 
-                while (n1.containsKey(num) && n2.containsKey(num) && n1.get(num) !=0 && n2.get(num) != 0 ) {
+                while (n1.containsKey(num) && n2.containsKey(num)) {
 
                     result[fSize] = num;
                     fSize++;
 
                     n1.put(num, n1.get(num) - 1);
                     n2.put(num, n2.get(num) - 1);
+
+                    if (n1.get(num) == 0)
+                        n1.remove(num);
+
+                    if (n2.get(num) == 0)
+                        n2.remove(num);
                 }
             }
         }
