@@ -124,6 +124,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Saraansh0001/Leetcodes/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0525-contiguous-array) |
@@ -161,6 +162,7 @@
 | [0125-valid-palindrome](https://github.com/Saraansh0001/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Saraansh0001/Leetcodes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Saraansh0001/Leetcodes/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -255,6 +257,7 @@
 | [0169-majority-element](https://github.com/Saraansh0001/Leetcodes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [1399-count-largest-group](https://github.com/Saraansh0001/Leetcodes/tree/master/1399-count-largest-group) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -576,6 +579,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
