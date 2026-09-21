@@ -1,42 +1,36 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
 
-        Arrays.sort(nums1);
-        Arrays.sort(nums2);
+        HashSet<Integer> n1 = new HashSet<>();
+        HashSet<Integer> n2 = new HashSet<>();
 
-        int[] arr = new int[Math.min(nums1.length, nums2.length)];
+        int size = Math.max(nums1.length, nums2.length);
+        int[] result = new int[size];
 
-        int count = 0;
+        for (int num : nums1) {
+            n1.add(num);
+        }
 
-        int i = 0, j = 0;
+        for (int num : nums2) {
+            n2.add(num);
+        }
 
-        while (i < nums1.length && j < nums2.length) {
+        int fSize = 0;
 
-            if (nums1[i] == nums2[j]) {
+        for (int num : n1) {
 
-                arr[count] = nums1[i];
-                count++;
-
-                // Skip duplicates
-                while (i + 1 < nums1.length && nums1[i] == nums1[i + 1]) {
-                    i++;
-                }
-
-                while (j + 1 < nums2.length && nums2[j] == nums2[j + 1]) {
-                    j++;
-                }
-
-                i++;
-                j++;
-
-            } else if (nums1[i] > nums2[j]) {
-                j++;
-
-            } else {
-                i++;
+            if (n2.contains(num)) {
+                result[fSize] = num;
+                fSize++;
             }
         }
 
-        return Arrays.copyOf(arr, count);
+        int[] finalArray = new int[fSize];
+
+        for (int i = 0; i < fSize; i++) {
+            finalArray[i] = result[i];
+        }
+
+        return finalArray;
     }
 }
