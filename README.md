@@ -52,6 +52,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Saraansh0001/Leetcodes/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Saraansh0001/Leetcodes/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saraansh0001/Leetcodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Saraansh0001/Leetcodes/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
@@ -109,6 +110,7 @@
 | [0875-koko-eating-bananas](https://github.com/Saraansh0001/Leetcodes/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Saraansh0001/Leetcodes/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saraansh0001/Leetcodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Saraansh0001/Leetcodes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraansh0001/Leetcodes/tree/master/3312-sorted-gcd-pair-queries) |
@@ -145,6 +147,7 @@
 | [1399-count-largest-group](https://github.com/Saraansh0001/Leetcodes/tree/master/1399-count-largest-group) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Saraansh0001/Leetcodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saraansh0001/Leetcodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2404-most-frequent-even-element](https://github.com/Saraansh0001/Leetcodes/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Saraansh0001/Leetcodes/tree/master/2506-count-pairs-of-similar-strings) |
@@ -209,6 +212,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saraansh0001/Leetcodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saraansh0001/Leetcodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saraansh0001/Leetcodes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saraansh0001/Leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saraansh0001/Leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -443,6 +447,7 @@
 | [1140-stone-game-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Saraansh0001/Leetcodes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saraansh0001/Leetcodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Saraansh0001/Leetcodes/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Saraansh0001/Leetcodes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
