@@ -7,13 +7,6 @@ class Solution {
             total += num;
         }
 
-
-
-
-
-
-
-
         int target = total - x;
 
         HashMap<Integer, Integer> map = new HashMap<>();
