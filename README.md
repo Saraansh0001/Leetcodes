@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saraansh0001/Leetcodes/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Saraansh0001/Leetcodes/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraansh0001/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Saraansh0001/Leetcodes/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/Saraansh0001/Leetcodes/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
@@ -543,6 +545,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
