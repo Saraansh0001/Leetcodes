@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saraansh0001/Leetcodes/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraansh0001/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0128-longest-consecutive-sequence) |
@@ -316,6 +317,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/Saraansh0001/Leetcodes/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
@@ -343,6 +345,7 @@
 | [0007-reverse-integer](https://github.com/Saraansh0001/Leetcodes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Saraansh0001/Leetcodes/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Saraansh0001/Leetcodes/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Saraansh0001/Leetcodes/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0263-ugly-number) |
