@@ -53,6 +53,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Saraansh0001/Leetcodes/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Saraansh0001/Leetcodes/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saraansh0001/Leetcodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Saraansh0001/Leetcodes/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
@@ -150,6 +151,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Saraansh0001/Leetcodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saraansh0001/Leetcodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2404-most-frequent-even-element](https://github.com/Saraansh0001/Leetcodes/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Saraansh0001/Leetcodes/tree/master/2506-count-pairs-of-similar-strings) |
@@ -186,6 +188,7 @@
 | [1096-brace-expansion-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Saraansh0001/Leetcodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Saraansh0001/Leetcodes/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Saraansh0001/Leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Saraansh0001/Leetcodes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
