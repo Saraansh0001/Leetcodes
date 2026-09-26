@@ -37,6 +37,7 @@
 | [0724-find-pivot-index](https://github.com/Saraansh0001/Leetcodes/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/Saraansh0001/Leetcodes/tree/master/0835-image-overlap) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Saraansh0001/Leetcodes/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Saraansh0001/Leetcodes/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -319,6 +320,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/Saraansh0001/Leetcodes/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -538,6 +540,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/3498-reverse-degree-of-a-string) |
