@@ -30,6 +30,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Saraansh0001/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -112,6 +113,7 @@
 | [0278-first-bad-version](https://github.com/Saraansh0001/Leetcodes/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Saraansh0001/Leetcodes/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
@@ -410,6 +412,7 @@
 | [0115-distinct-subsequences](https://github.com/Saraansh0001/Leetcodes/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraansh0001/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Saraansh0001/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Saraansh0001/Leetcodes/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0940-distinct-subsequences-ii) |
@@ -469,6 +472,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Saraansh0001/Leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Saraansh0001/Leetcodes/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Saraansh0001/Leetcodes/tree/master/0724-find-pivot-index) |
@@ -487,6 +491,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saraansh0001/Leetcodes/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Saraansh0001/Leetcodes/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Saraansh0001/Leetcodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
