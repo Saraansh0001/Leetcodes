@@ -39,6 +39,7 @@
 | [0704-binary-search](https://github.com/Saraansh0001/Leetcodes/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Saraansh0001/Leetcodes/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/Saraansh0001/Leetcodes/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Saraansh0001/Leetcodes/tree/master/0875-koko-eating-bananas) |
@@ -116,6 +117,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Saraansh0001/Leetcodes/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Saraansh0001/Leetcodes/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saraansh0001/Leetcodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -679,4 +681,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saraansh0001/Leetcodes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
