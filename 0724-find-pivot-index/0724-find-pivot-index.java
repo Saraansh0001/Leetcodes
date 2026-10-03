@@ -3,24 +3,29 @@ class Solution {
 
         int n = nums.length;
 
-        int[] prefix = new int[n];
-        int[] postfix = new int[n];
+        int[] prefixSum = new int[n + 1];
+        int[] postfixSum = new int[n + 1];
 
-        prefix[0] = nums[0];
-
-        for (int i = 1; i < n; i++) {
-            prefix[i] = prefix[i - 1] + nums[i];
+        // Prefix sum
+        for (int i = 1; i <= n; i++) {
+            prefixSum[i] = prefixSum[i - 1] + nums[i - 1];
         }
 
-        postfix[n - 1] = nums[n - 1];
-
-        for (int i = n - 2; i >= 0; i--) {
-            postfix[i] = postfix[i + 1] + nums[i];
+        // Postfix sum
+        for (int i = n - 1; i >= 0; i--) {
+            postfixSum[i] = postfixSum[i + 1] + nums[i];
         }
 
+        // Check pivot
         for (int i = 0; i < n; i++) {
 
-            if ( prefix[i] ==  postfix [i] ) return i ;
+            int leftSum = prefixSum[i];
+
+            int rightSum = postfixSum[i + 1];
+
+            if (leftSum == rightSum) {
+                return i;
+            }
         }
 
         return -1;
