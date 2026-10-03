@@ -3,7 +3,7 @@ class Solution {
 
         HashMap<Integer, Integer> map = new HashMap<>();
 
-        // remainder 0 exists before the array starts
+        // remainder 0 before the array starts
         map.put(0, -1);
 
         int prefixSum = 0;
@@ -12,20 +12,19 @@ class Solution {
 
             prefixSum += nums[i];
 
-            int remainder = prefixSum % k;
+            int rem = prefixSum % k;
 
-            if (map.containsKey(remainder)) {
+            if (map.containsKey(rem)) {
 
-                int previousIndex = map.get(remainder);
+                int prevIndex = map.get(rem);
 
-                // Length must be at least 2
-                if (i - previousIndex >= 2) {
+                if (i - prevIndex >= 2) {
                     return true;
                 }
 
             } else {
-                // Store FIRST occurrence only
-                map.put(remainder, i);
+                // Store only the first occurrence
+                map.put(rem, i);
             }
         }
 
