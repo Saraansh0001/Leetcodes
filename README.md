@@ -66,6 +66,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Saraansh0001/Leetcodes/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Saraansh0001/Leetcodes/tree/master/1563-stone-game-v) |
+| [1572-matrix-diagonal-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saraansh0001/Leetcodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Saraansh0001/Leetcodes/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -366,6 +367,7 @@
 | [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
+| [1572-matrix-diagonal-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Saraansh0001/Leetcodes/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saraansh0001/Leetcodes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
