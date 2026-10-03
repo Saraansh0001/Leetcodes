@@ -43,6 +43,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Saraansh0001/Leetcodes/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Saraansh0001/Leetcodes/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Saraansh0001/Leetcodes/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -365,6 +366,7 @@
 | [0054-spiral-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Saraansh0001/Leetcodes/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Saraansh0001/Leetcodes/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
@@ -502,6 +504,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0633-sum-of-square-numbers) |
+| [0832-flipping-an-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0832-flipping-an-image) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Saraansh0001/Leetcodes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Saraansh0001/Leetcodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -555,6 +558,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Saraansh0001/Leetcodes/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saraansh0001/Leetcodes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/Saraansh0001/Leetcodes/tree/master/1386-cinema-seat-allocation) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Saraansh0001/Leetcodes/tree/master/2506-count-pairs-of-similar-strings) |
@@ -606,6 +610,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
