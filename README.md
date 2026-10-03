@@ -32,6 +32,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Saraansh0001/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/Saraansh0001/Leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Saraansh0001/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0525-contiguous-array) |
