@@ -39,6 +39,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Saraansh0001/Leetcodes/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Saraansh0001/Leetcodes/tree/master/0724-find-pivot-index) |
@@ -363,6 +364,7 @@
 | [0048-rotate-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Saraansh0001/Leetcodes/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/Saraansh0001/Leetcodes/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
@@ -603,6 +605,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3069-distribute-elements-into-two-arrays-i) |
