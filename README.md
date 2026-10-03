@@ -48,6 +48,7 @@
 | [0875-koko-eating-bananas](https://github.com/Saraansh0001/Leetcodes/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Saraansh0001/Leetcodes/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Saraansh0001/Leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saraansh0001/Leetcodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
@@ -127,6 +128,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Saraansh0001/Leetcodes/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Saraansh0001/Leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saraansh0001/Leetcodes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Saraansh0001/Leetcodes/tree/master/1539-kth-missing-positive-number) |
@@ -243,6 +245,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0567-permutation-in-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Saraansh0001/Leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saraansh0001/Leetcodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -498,6 +501,7 @@
 | [0724-find-pivot-index](https://github.com/Saraansh0001/Leetcodes/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Saraansh0001/Leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Saraansh0001/Leetcodes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
