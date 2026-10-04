@@ -4,22 +4,22 @@ class Solution {
         HashSet<Character> set = new HashSet<>();
 
         int left = 0;
-        int maxSize = 0;
+        int maxL = 0;
 
         for (int right = 0; right < s.length(); right++) {
 
-            char ch = s.charAt(right);
+            char c = s.charAt(right);
 
-            while (set.contains(ch)) {
+            while (set.contains(c)) {
                 set.remove(s.charAt(left));
                 left++;
             }
 
-            set.add(ch);
+            set.add(c);
 
-            maxSize = Math.max(maxSize, right - left + 1);
+            maxL = Math.max(maxL, right - left + 1);
         }
 
-        return maxSize;
+        return maxL;
     }
 }
