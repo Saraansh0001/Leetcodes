@@ -17,6 +17,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Saraansh0001/Leetcodes/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraansh0001/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0136-single-number) |
@@ -460,6 +461,7 @@
 | [0022-generate-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Saraansh0001/Leetcodes/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saraansh0001/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0410-split-array-largest-sum) |
