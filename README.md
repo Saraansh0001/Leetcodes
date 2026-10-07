@@ -216,6 +216,7 @@
 | [0115-distinct-subsequences](https://github.com/Saraansh0001/Leetcodes/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Saraansh0001/Leetcodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Saraansh0001/Leetcodes/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Saraansh0001/Leetcodes/tree/master/0389-find-the-difference) |
@@ -352,6 +353,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Saraansh0001/Leetcodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saraansh0001/Leetcodes/tree/master/2685-count-the-number-of-complete-components) |
@@ -675,6 +677,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
