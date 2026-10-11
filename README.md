@@ -86,6 +86,7 @@
 | [2404-most-frequent-even-element](https://github.com/Saraansh0001/Leetcodes/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Saraansh0001/Leetcodes/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saraansh0001/Leetcodes/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saraansh0001/Leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -615,6 +616,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Saraansh0001/Leetcodes/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Saraansh0001/Leetcodes/tree/master/3499-maximize-active-section-with-trade-i) |
