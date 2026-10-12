@@ -1,24 +1,25 @@
+
 class Solution {
     public double myPow(double x, int n) {
-        long N = n;
-        
-        if (N < 0) {
-            x = 1 / x;
-            N = -N;
+        long exp = n;
+
+        if (exp < 0) {
+            exp = -exp;
+            return 1.0 / powHelper(x, exp);
         }
-        
-        return fastPow(x, N);
+
+        return powHelper(x, exp);
     }
-    
-    private double fastPow(double x, long n) {
-        if (n == 0) return 1;
-        
-        double half = fastPow(x, n / 2);
-        
+
+    private double powHelper(double x, long n) {
+        if (n == 0) return 1.0;
+
+        double half = powHelper(x, n / 2);
+
         if (n % 2 == 0) {
             return half * half;
-        } else {
-            return half * half * x;
         }
+
+        return x * half * half;
     }
 }
