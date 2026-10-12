@@ -1,8 +1,6 @@
 class Solution {
     public int fib(int n) {
-
         return ( nthFibo(n) );
-        
     }
 
     private int nthFibo ( int n ) {
