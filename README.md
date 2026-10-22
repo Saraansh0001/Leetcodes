@@ -431,6 +431,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Saraansh0001/Leetcodes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Saraansh0001/Leetcodes/tree/master/0012-integer-to-roman) |
@@ -711,6 +712,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Saraansh0001/Leetcodes/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Saraansh0001/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0509-fibonacci-number) |
@@ -758,6 +760,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Saraansh0001/Leetcodes/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Queue
 |  |
