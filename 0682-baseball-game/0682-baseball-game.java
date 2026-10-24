@@ -1,6 +1,3 @@
-
-import java.util.*;
-
 class Solution {
     public int calPoints(String[] operations) {
         Stack<Integer> st = new Stack<>();
