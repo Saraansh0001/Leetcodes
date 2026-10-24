@@ -713,10 +713,12 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Saraansh0001/Leetcodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Saraansh0001/Leetcodes/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Saraansh0001/Leetcodes/tree/master/2487-remove-nodes-from-linked-list) |
 ## Segment Tree
 |  |
 | ------- |
@@ -736,6 +738,7 @@
 | [0050-powx-n](https://github.com/Saraansh0001/Leetcodes/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Saraansh0001/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Saraansh0001/Leetcodes/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Saraansh0001/Leetcodes/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
@@ -791,6 +794,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Saraansh0001/Leetcodes/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Saraansh0001/Leetcodes/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Saraansh0001/Leetcodes/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Saraansh0001/Leetcodes/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
