@@ -43,6 +43,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Saraansh0001/Leetcodes/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Saraansh0001/Leetcodes/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Saraansh0001/Leetcodes/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Saraansh0001/Leetcodes/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0832-flipping-an-image) |
@@ -681,6 +682,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Saraansh0001/Leetcodes/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Saraansh0001/Leetcodes/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
@@ -701,6 +703,7 @@
 | [0020-valid-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Saraansh0001/Leetcodes/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saraansh0001/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/1021-remove-outermost-parentheses) |
