@@ -1,4 +1,3 @@
-
 class Solution {
     public int[] canSeePersonsCount(int[] heights) {
         int n = heights.length;
