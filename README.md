@@ -36,6 +36,7 @@
 | [0410-split-array-largest-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Saraansh0001/Leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Saraansh0001/Leetcodes/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Saraansh0001/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -190,6 +191,7 @@
 | [0389-find-the-difference](https://github.com/Saraansh0001/Leetcodes/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Saraansh0001/Leetcodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Saraansh0001/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -702,6 +704,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0032-longest-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Saraansh0001/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Saraansh0001/Leetcodes/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0856-score-of-parentheses) |
@@ -717,6 +720,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Saraansh0001/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saraansh0001/Leetcodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Saraansh0001/Leetcodes/tree/master/2487-remove-nodes-from-linked-list) |
 ## Segment Tree
