@@ -549,6 +549,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Saraansh0001/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Saraansh0001/Leetcodes/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saraansh0001/Leetcodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Saraansh0001/Leetcodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -718,6 +719,7 @@
 | [0020-valid-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saraansh0001/Leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Saraansh0001/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Saraansh0001/Leetcodes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0678-valid-parenthesis-string) |
@@ -837,11 +839,13 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Saraansh0001/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Saraansh0001/Leetcodes/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saraansh0001/Leetcodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Saraansh0001/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Saraansh0001/Leetcodes/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saraansh0001/Leetcodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Euclidean Algorithm
