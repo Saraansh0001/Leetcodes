@@ -96,6 +96,7 @@
 | [2404-most-frequent-even-element](https://github.com/Saraansh0001/Leetcodes/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Saraansh0001/Leetcodes/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saraansh0001/Leetcodes/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2747-count-zero-request-servers](https://github.com/Saraansh0001/Leetcodes/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saraansh0001/Leetcodes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -222,6 +223,7 @@
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2404-most-frequent-even-element](https://github.com/Saraansh0001/Leetcodes/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Saraansh0001/Leetcodes/tree/master/2506-count-pairs-of-similar-strings) |
+| [2747-count-zero-request-servers](https://github.com/Saraansh0001/Leetcodes/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Saraansh0001/Leetcodes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saraansh0001/Leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -313,6 +315,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saraansh0001/Leetcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saraansh0001/Leetcodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/Saraansh0001/Leetcodes/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saraansh0001/Leetcodes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saraansh0001/Leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saraansh0001/Leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -351,6 +354,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Saraansh0001/Leetcodes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saraansh0001/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saraansh0001/Leetcodes/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Saraansh0001/Leetcodes/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
