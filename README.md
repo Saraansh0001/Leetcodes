@@ -65,6 +65,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Saraansh0001/Leetcodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Saraansh0001/Leetcodes/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Saraansh0001/Leetcodes/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Saraansh0001/Leetcodes/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1331-rank-transform-of-an-array) |
@@ -391,6 +392,7 @@
 | [0229-majority-element-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Saraansh0001/Leetcodes/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saraansh0001/Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Saraansh0001/Leetcodes/tree/master/1267-count-servers-that-communicate) |
 | [1399-count-largest-group](https://github.com/Saraansh0001/Leetcodes/tree/master/1399-count-largest-group) |
 | [2029-stone-game-ix](https://github.com/Saraansh0001/Leetcodes/tree/master/2029-stone-game-ix) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Saraansh0001/Leetcodes/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -412,6 +414,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Saraansh0001/Leetcodes/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Saraansh0001/Leetcodes/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Saraansh0001/Leetcodes/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Saraansh0001/Leetcodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saraansh0001/Leetcodes/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -424,6 +427,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saraansh0001/Leetcodes/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Saraansh0001/Leetcodes/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Saraansh0001/Leetcodes/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Saraansh0001/Leetcodes/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Saraansh0001/Leetcodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saraansh0001/Leetcodes/tree/master/2685-count-the-number-of-complete-components) |
@@ -444,6 +448,7 @@
 | [0867-transpose-matrix](https://github.com/Saraansh0001/Leetcodes/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Saraansh0001/Leetcodes/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Saraansh0001/Leetcodes/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Saraansh0001/Leetcodes/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1572-matrix-diagonal-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Saraansh0001/Leetcodes/tree/master/1672-richest-customer-wealth) |
@@ -578,6 +583,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saraansh0001/Leetcodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Saraansh0001/Leetcodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Saraansh0001/Leetcodes/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Saraansh0001/Leetcodes/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saraansh0001/Leetcodes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Saraansh0001/Leetcodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Saraansh0001/Leetcodes/tree/master/2685-count-the-number-of-complete-components) |
