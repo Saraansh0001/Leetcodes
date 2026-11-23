@@ -70,6 +70,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Saraansh0001/Leetcodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saraansh0001/Leetcodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Saraansh0001/Leetcodes/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Saraansh0001/Leetcodes/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Saraansh0001/Leetcodes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -519,6 +520,7 @@
 | [1140-stone-game-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saraansh0001/Leetcodes/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Saraansh0001/Leetcodes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/1352-product-of-the-last-k-numbers) |
 | [1399-count-largest-group](https://github.com/Saraansh0001/Leetcodes/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Saraansh0001/Leetcodes/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Saraansh0001/Leetcodes/tree/master/1406-stone-game-iii) |
@@ -667,6 +669,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Saraansh0001/Leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Saraansh0001/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saraansh0001/Leetcodes/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Saraansh0001/Leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saraansh0001/Leetcodes/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Saraansh0001/Leetcodes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -879,6 +882,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Saraansh0001/Leetcodes/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/1352-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -1002,4 +1006,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saraansh0001/Leetcodes/tree/master/0084-largest-rectangle-in-histogram) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Saraansh0001/Leetcodes/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
