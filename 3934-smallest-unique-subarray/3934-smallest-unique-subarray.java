@@ -1,6 +1,3 @@
-
-import java.util.*;
-
 class Solution {
     public int smallestUniqueSubarray(int[] nums) {
         int n = nums.length;
